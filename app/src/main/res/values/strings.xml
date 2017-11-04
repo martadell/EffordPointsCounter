@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Efford Points Counter</string>
+    <string name="lvl">Level</string>
+    <string name="add_points">Add Efford Points</string>
+    <string name="confirm">Confirm</string>
+    <string name="remove">Remove</string>
+    <string name="cannotwrite">Couldn`t create a saving file</string>
+    <string name="cannotread">Couldn`t read saved file</string>
+    <string name="clear_points">Clear efford points</string>
+    <string name="clear_all">Restart</string>
+    <string name="confirm_clear_all">Are you sure you want to delete all items?</string>
+    <string name="error_100">Number is too big</string>
+    <string name="total">Total Points</string>
+    <string name="clear_lvl">Clear level points</string>
+</resources>

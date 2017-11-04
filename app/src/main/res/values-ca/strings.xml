@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Efford Points Counter</string>
+    <string name="add_points">Afegir Efford Points</string>
+    <string name="lvl">Nivell</string>
+    <string name="cannotread">No s\'ha pogut llegir l\'arxiu de guardat</string>
+    <string name="cannotwrite">No s\'ha pogut crear l\'arxiu de guardat</string>
+    <string name="clear_all">Reiniciar</string>
+    <string name="clear_lvl">Esborrar els punts de nivell</string>
+    <string name="clear_points">Esborrar els efford points</string>
+    <string name="confirm">Confirmar</string>
+    <string name="confirm_clear_all">Estàs segur de que vols esborrar-ho tot?</string>
+    <string name="remove">Elimina</string>
+    <string name="error_100">El nombre és massa llarg</string>
+    <string name="total">Pts. Totals</string>
+</resources>
